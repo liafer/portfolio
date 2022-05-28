@@ -5,6 +5,7 @@ import { BsCalculator } from 'react-icons/bs'
 import { FiLink } from 'react-icons/fi'
 import { TiWeatherCloudy } from 'react-icons/ti'
 import { IoMdCard } from 'react-icons/io'
+import avatar from './images/avatar.svg'
 
 function App() {
   return (
@@ -14,8 +15,9 @@ function App() {
         <h3>Front End developer</h3>
         <p>Experience in web development. Passionate about creativity and technology.</p>
         <p>Powered by high-impact web solutions.</p>
-        <TiFlash color='gold' size={40} />
-        <BsSuitHeartFill size={90} />
+        <img src= {avatar} alt='avatar' />
+        <TiFlash color='gold' size={100} />
+        <BsSuitHeartFill size={200} />
         </div>
 
         <div className='portfolio'>

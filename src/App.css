@@ -17,13 +17,13 @@
 
 .main-home h1{
   margin: 10px auto;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 50px;
 }
 
 .main-home h3{
   margin: 15px auto;
-  color: rgb(82, 77, 77);
+  color: rgb(97, 71, 97);
   font-size: 20px;
 }
 
@@ -145,6 +145,11 @@
   text-decoration: none;
   border: 1px solid black;
   margin-top: 20px;
+}
+
+.main-home img{
+  margin-top: 20px;
+  border-radius: 10px;
 }
 
 .projects svg{
