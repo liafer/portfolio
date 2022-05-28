@@ -1,6 +1,4 @@
 import './App.css';
-import { TiFlash } from 'react-icons/ti'
-import { BsSuitHeartFill } from 'react-icons/bs'
 import { BsCalculator } from 'react-icons/bs'
 import { FiLink } from 'react-icons/fi'
 import { TiWeatherCloudy } from 'react-icons/ti'
@@ -16,8 +14,6 @@ function App() {
         <p>Experience in web development. Passionate about creativity and technology.</p>
         <p>Powered by high-impact web solutions.</p>
         <img src= {avatar} alt='avatar' />
-        <TiFlash color='gold' size={100} />
-        <BsSuitHeartFill size={200} />
         </div>
 
         <div className='portfolio'>

@@ -18,6 +18,7 @@
 .main-home h1{
   margin: 10px auto;
   font-family: 'Raleway', sans-serif;
+  color: black;
   font-size: 50px;
 }
 
@@ -31,11 +32,6 @@
   color: rgb(22, 21, 21);
   font-weight: bold;
   font-family: 'Raleway', sans-serif;
-}
-
-.main-home svg{
-  color: rgb(112, 58, 173);
-  margin: 20px auto;
 }
 
 .portfolio{
